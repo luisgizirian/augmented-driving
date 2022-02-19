@@ -28,7 +28,7 @@ def find_shape(approx):
   return s, x, y, w, h
 
 # reading image
-orig = cv2.imread('samples/24.png')
+orig = cv2.imread('samples/2-min.png', cv2.IMREAD_UNCHANGED)
 
 
 img = orig.copy()
@@ -79,13 +79,13 @@ for contour in contours:
     #     i = 1
     #     continue
     
-    hull = cv2.convexHull(contour)
+    # hull = cv2.convexHull(contour)
 
     #cv2.approxPloyDP() function to approximate the shape
     approx = cv2.approxPolyDP(
-        hull, 0.04 * cv2.arcLength(contour, True), True)
+        contour, 0.04 * cv2.arcLength(contour, True), True)
 
-    area = cv2.contourArea(hull)
+    area = cv2.contourArea(contour)
     print(len(approx))
     print(area)
     # if area > 1:
@@ -94,7 +94,7 @@ for contour in contours:
     cv2.putText(orig, shape, (x+30, y+150), cv2.FONT_HERSHEY_COMPLEX, .7, (255, 0, 255), 1)
     
     # if len(shape) > 0:
-    contour_list.append(hull)
+    contour_list.append(contour)
 
 cv2.drawContours(orig, contour_list, -1, (255, 0, 255), 1)
 

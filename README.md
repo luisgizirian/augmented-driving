@@ -34,8 +34,12 @@ The reason behind it, is to serve as a step for Autonomous Driving. Closing the 
 
 Scenarios:
 * Traffic Sign recog
-* Pedestrians
 * Abide regulations while driving
-* Surroundings
-* Short, Mid, and Long term
+* Surroundings (ie. other cars around us, pedestrians)
+* Short, Mid, and Long term (ie. heading towards a visible twister)
 * Anticipate actions (ie. Lights about to turn Red)
+
+### Traffic Sign recognition
+At a high level, we're planning to learn from a sample + attributes.
+
+The sample is a pictogram obtained from the Driver License Manual (which happens to be a valid learning source for a human). From the pictogram, we may get some attributes that are useful for learning and later recognizing it in real world complex imagery that will be feeded. These attributes are: Shape, Primary color, orientation, compound shapes (ie. Stop All-way, Ramp Max Speed), relative size when related (ie. min - max speed limit in highway)
