@@ -20,7 +20,7 @@ def find_shape(approx):
   elif len(approx) == 8:
     s = "Octagon"
 
-  elif 9 < len(approximations) < 15:
+  elif 9 < len(approx) < 15:
     s = "Ellipse"
   else:
     s = "Circle"
@@ -28,7 +28,7 @@ def find_shape(approx):
   return s, x, y, w, h
 
 # reading image
-orig = cv2.imread('samples/6.png')
+orig = cv2.imread('samples/33.png')
 
 
 img = orig.copy()
