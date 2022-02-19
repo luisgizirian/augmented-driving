@@ -28,7 +28,7 @@ def find_shape(approx):
   return s, x, y, w, h
 
 # reading image
-orig = cv2.imread('samples/33.png')
+orig = cv2.imread('samples/24.png')
 
 
 img = orig.copy()
@@ -63,7 +63,7 @@ cv2.imwrite('samples/canny.png',edges)
 
 # using a findContours() function
 contours, _ = cv2.findContours(
-	edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+	edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     #edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
 
 i = 0
