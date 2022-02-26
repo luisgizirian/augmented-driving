@@ -1,6 +1,6 @@
 # Light Learning for Object Recognition & Tracking
 
-## Having an AI that learned its way the way we do.
+## Having an AI that learns its way the way we do.
 
 We humans, need a sample or two of an image, to learn a new object. Then, we’re able to recognize it in the wild, with little to no effort, after a brief consolidation period that regularly consists of light repetition, plus some trial and error.
 
