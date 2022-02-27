@@ -30,7 +30,7 @@ Describe from Attributes (is it Hard or Soft?), and complement with an Image or 
 To test our hypothesis, we'll pick this challenge, that's a step on a much bigger one: Augmented Driving.
 
 ### Augmented Driving
-The reason behind it, is to serve as a step for Autonomous Driving. Closing the trust gap that blocks us from delegating a life or death task to a machine. By using Augmentation to show what the computer sees, considers, but leaving the human in the loop, to make decisions with the inforation and hints that the computer provides in real time.
+The reason behind it, is to serve as a step for Autonomous Driving. Closing the trust gap that blocks us from delegating a life or death task to a machine. By using Augmentation to show what the computer sees, considers, but leaving the human in the loop, to make decisions with the information and hints that the computer provides in real time.
 
 Scenarios:
 * Traffic Sign recog
@@ -42,4 +42,4 @@ Scenarios:
 ### Traffic Sign recognition
 At a high level, we're planning to learn from a sample + attributes.
 
-The sample is a pictogram obtained from the Driver License Manual (which happens to be a valid learning source for a human). From the pictogram, we may get some attributes that are useful for learning and later recognizing it in real world complex imagery that will be feeded. These attributes are: Shape, Primary color, orientation, compound shapes (ie. Stop All-way, Ramp Max Speed), relative size when related (ie. min - max speed limit in highway)
+From the sample pictogram (that a human could use as a source of truth for learning purposes), we may get some attributes that are useful for learning and later recognizing it in real world complex imagery that will be feeded. These attributes are: Shape, Primary color, orientation, compound shapes (ie. Stop All-way, Ramp Max Speed), relative size when related (ie. min - max speed limit in highway)
