@@ -1,8 +1,15 @@
-# Light Learning for Object Recognition & Tracking
+# Augmented Driving
 
-## Having an AI that learns its way the way we do.
+We'll get there eventually, but it'll take baby steps (sources) to do so. The first source, will bd Traffic Sign Recognition. For it, we'll try a hypothesis to mimic the human learning and inference processes. Shall such technique work, will suppose a leap forward for AGI (Artificisll General Intelligence) field evolution, bringing down significantly learning time and energy needs.
+
+## Our learning hypothesis: Light Learning for Object Recognition & Tracking
 
 We humans, need a sample or two of an image, to learn a new object. Then, we’re able to recognize it in the wild, with little to no effort, after a brief consolidation period that regularly consists of light repetition, plus some trial and error.
+
+## Building trust towards self driving one step at a time.
+
+The driver will be "augmented" by the real time information that will be supplied and colllected through our different sources. The feeding process will be done mixing visual and audio cues, so the driver will be fed with it, in order to enhance the decision process by gathering the right data at the right time.
+
 
 ### Main goals
 * Learning from one (or just a few) sketch or sample
@@ -14,7 +21,7 @@ Laws of physics - Gravity basically
 3 Dimensionality
 We map objects with a 3D dimensionality in mind. We “have” the “ability” to learn from a 2d sketch, and recognize a real 3d object instance (i.e. a Cow) when seen (i.e. in the Zoo).
 
-### Stereoscopic vision
+### Stereoscopic vision [hypothesis]
 Looks like a cornerstone to abstract an object from its context, to be recognized in isolation. There’s a say that, thru Deep Learning training, recognizing a Cow, posing in a Beach, requires samples provided at training time. But if context is removed, and focusing can be a killer feature here, learning to recognize a Cow in whatever Context, can become a no-brainer.
 
 > On a second though, our ability to recognize from stills (imprinted photos) that are kind of flattened (2d) from their original form, shows us that learnt context may be powerfull enough to replace stereoscopic vision when not available.

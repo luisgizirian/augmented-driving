@@ -3,29 +3,31 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 def find_shape(approx):
-  x, y, w, h = cv2.boundingRect(approx)
+  x, y, width, height = cv2.boundingRect(approx)
+
   if len(approx) == 3:
-    s = "Triangle"
+    shape = "Triangle"
   
   elif len(approx) == 4:
-    calculation = w / float(h)
-    if calculation >= 0.95:
-      s = "Square"
+    area = width / float(height)
+    if area >= 0.95:
+      shape = "Square"
     else:
-      s = "Rectangle"
+      shape = "Rectangle"
     
   elif len(approx) == 5:
-    s = "Pentagon"
+    shape = "Pentagon"
   
   elif len(approx) == 8:
-    s = "Octagon"
+    shape = "Octagon"
 
   elif 9 < len(approx) < 15:
-    s = "Ellipse"
+    shape = "Ellipse"
+    
   else:
-    s = "Circle"
+    shape = "Circle"
   
-  return s, x, y, w, h
+  return shape, x, y, width, height
 
 # reading image
 orig = cv2.imread('samples/2-min.png', cv2.IMREAD_UNCHANGED)
