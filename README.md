@@ -1,6 +1,6 @@
 # Augmented Driving
 
-We'll get there eventually, but it'll take baby steps (sources) to do so. The first source, will bd Traffic Sign Recognition. For it, we'll try a hypothesis to mimic the human learning and inference processes. Shall such technique work, will suppose a leap forward for AGI (Artificisll General Intelligence) field evolution, bringing down significantly learning time and energy needs.
+We'll get there eventually, but it'll take baby steps (sources) to do so. The first source, will be Traffic Sign Recognition. For it, we'll try a hypothesis to mimic the human learning and inference processes. Shall such technique work, will suppose a leap forward for AGI (Artificisll General Intelligence) field evolution, bringing down significantly learning time and energy needs.
 
 ## Our learning hypothesis: Light Learning for Object Recognition & Tracking
 
