@@ -16,13 +16,6 @@ We humans, need a sample or two of an image, to learn a new object. Then, we’r
 * Learn progressively through trial and error
 * Minimum energy consumption when recognizing learned objects
 
-#### Sources:
-* Traffic Sign Recognition
-* Abide regulations while driving
-* Surroundings (ie. other cars around us, pedestrians)
-* Short, Mid, and Long term (ie. heading towards a visible twister)
-* Anticipate actions (ie. Lights about to turn Red)
-
 #### Context (or Common Sense)
 We map objects with a 3-dimensionality in mind. People has the “ability” to learn from a 2d sketch, and recognize a real 3d object instance (i.e. a Cow) when seen (i.e. in the Zoo). Laws of physics like gravity, are already internalized in our brains.
 
@@ -34,13 +27,24 @@ Looks like a interesting addition, capable of abstracting objects from its conte
 #### Graph
 we can recognize a plant, or a flower, without knowing the species. Maybe Light Learning refers to Generalized or Simple, and Deep Learning, refers to Specialized, and they’re complementary
 
-#### Attribute Encoding approach
+#### Attribute Encoding learning approach
 Describe from Attributes (is it Hard or Soft?), and complement with an Image or Two of the target. This technique looks to replace learning from many examples, in favor of deriving from what was learned (in a human-like fashion)
+
+#### Sources:
+* Traffic Sign Recognition
+* Abide regulations while driving
+* Surroundings (ie. other cars around us, pedestrians)
+* Short, Mid, and Long term (ie. heading towards a visible twister)
+* Anticipate actions (ie. Lights about to turn Red)
 
 ---
 
 ## Source #1: Traffic Sign Recognition
 
-To test our hypothesis, we'll pick this challenge. At a high level, we're planning to learn from a sample + attributes.
+To test our hypothesis, we'll pick this challenge. At a high level, we're planning to learn from a sample or two + attributes [elaborate-here] (color, shape, disposition). At inference-time, coupling these with general cues such as Context, candidate abstraction (segmentation + stereoscopy) and graphing, may provide enough evidence to take an informed guess. It's a piramidal guessing approach, that shares phases.
+
+* | Learning | Sample(s) | Attributes (dominant colors, shape, orientation) |
+* | Inferencing (layer #1) | Graphing | Abstraction (segmentation or stereoscopy) |
+* | Inferencing (layer #2) | Context (3-dimentionalizing, physics laws) |
 
 From the sample pictogram (that a human could use as a source of truth for learning purposes - in a Driving Manual provided by your local institution), we may get some attributes that are useful for learning and later recognizing it in real world complex imagery that will be feeded. These attributes are: Shape, Primary color, orientation, compound shapes (ie. Stop All-way, Ramp Max Speed), relative size when related (ie. min - max speed limit in highway)
