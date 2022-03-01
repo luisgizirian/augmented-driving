@@ -35,7 +35,7 @@ This is a dynamic source list containing the high level topics that might be exp
 * Abide regulations while driving
 * Anticipate actions (ie. Lights about to turn Red)
 * Surroundings (ie. crossing pedestrians)
-* Short, Mid, and Long term (ie. heading towards a visible twister)
+* Short, Mid, and Long term (ie. heading towards a visible twister, speed bump ahead warning)
 
 ---
 
