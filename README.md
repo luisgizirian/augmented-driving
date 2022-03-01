@@ -2,7 +2,7 @@
 
 ## Building trust towards self driving one step at a time.
 
-The driver will be "augmented" by the real time information that will be supplied and colllected through our different sources. The feeding process will be done mixing visual and audio cues translated from real world. The driver will be fed with them, in order to enhance the decision process by gathering the right data at the right time whithout the effort that takes the driver doing it by itself. In other words, serving the info in a digestible fashion, without the effort. The driver can build trust on the automated system through repited positive validations, by comparing against the real-world.
+The driver will be "augmented" by the real time information that will be supplied and colllected through our different sources. The feeding process will be done mixing visual and audio **cues, hints and suggestions** translated from real world. The driver will be fed with them, in order to enhance the decision process by gathering the right data at the right time whithout the effort that takes the driver doing it by itself. In other words, serving the info in a digestible fashion, without the effort. The driver can build trust on the automated system through repited positive validations, by comparing against the real-world.
 
 We'll get there eventually, but it'll take baby steps (sources) to do so. The first source, will be Traffic Sign Recognition. For it, we'll try a hypothesis to mimic the human learning and inference processes. Shall such approach works, will suppose a leap forward for AGI (Artificisll General Intelligence) field evolution, bringing down significantly learning time and energy needs for some tasks.
 
