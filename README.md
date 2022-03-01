@@ -35,7 +35,6 @@ Describe from Hard Attributes, and complement with an Image or Two of the target
 * Surroundings (ie. other cars around us, pedestrians)
 * Short, Mid, and Long term (ie. heading towards a visible twister)
 * Anticipate actions (ie. Lights about to turn Red)
-* Lane Keeping, Adaptive Cruise Control (integrating with openpilot)
 
 ---
 
