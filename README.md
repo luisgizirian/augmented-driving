@@ -1,6 +1,6 @@
 # Augmented Driving
 
-## Building trust towards self driving one step at a time.
+## Building trust towards self driving, one step at a time.
 
 The driver will become augmented by real time information comming from different sources that will be perceived and then fed to her. Feeding will be accomplished by **mixing visual and audio cues, hints and suggestions** translated from real world inferred events. The person will be able to focus on the main task, avoiding to scatter around, but at the same time, getting all the info from its surroundings in an organized and percievable fashion. Building trust on the automated system through repetitive validations by comparing fed results against the real-world.
 
