@@ -14,7 +14,7 @@ We'll get there eventually, but it'll take baby steps (sources) to do so. The fi
 
 ### Our learning hypothesis: Light Learning for Object Recognition & Tracking
 
-We humans, need a sample or two of an image (maybe as a lousy sketch), to learn a new object. Then, we’re able to recognize it in the wild, with little to no effort, after a brief consolidation period that regularly consists of light repetition to enforce the association, plus some trial and error.
+We humans, need a sample or two of an image (maybe a lousy sketch will do), to learn a new object. Then, we’re able to recognize it in the wild, with little to no effort, after a brief consolidation period that regularly consists of light repetition to enforce the association, plus some trial and error.
 
 #### General Objectives
 * Learning from one (or just a few) sketch or sample
@@ -22,7 +22,7 @@ We humans, need a sample or two of an image (maybe as a lousy sketch), to learn 
 * Minimum energy consumption when recognizing learned objects
 
 #### Context (or Common Sense)
-We map objects with a 3-dimensionality in mind. People has the “ability” to learn from a 2d sketch, and recognize a real 3d object instance (i.e. a Cow) when seen (i.e. in the Zoo). Laws of physics like gravity, are already internalized in our brains.
+We map objects with a 3-dimensionality in mind. People have the ability to learn from a 2d sketch, and recognize a real 3d object instance (i.e. a cow) when seen (i.e. in the zoo). Laws of physics like gravity, are already internalized in our brains.
 
 #### Stereoscopic vision [hypothesis]
 Looks like a interesting addition, capable of abstracting objects from its context, to be recognized in isolation. If context is removed, and focusing can be a killer feature here, learning to recognize a learnt object in whatever Context, can become a no-brainer.
