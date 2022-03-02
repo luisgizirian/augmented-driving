@@ -5,7 +5,7 @@
 We want to show what an automated driving computer sees at any time and how it reacts. This understanding will bridge the gap between delegating man-to-machine driving task, accelerating adoption of self driving technologies.
 
 ### Intended Objectives
-* Improve driving experience by reducing stress and focusing easily on the task
+* Improve driving experience by organizing information overload whilie focusing easily on the task
 * Facilitate and fasten self driving adoption by building trust
 * Use existing car park for rapid market reach out
 
