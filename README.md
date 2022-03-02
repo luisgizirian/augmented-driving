@@ -2,7 +2,7 @@
 
 ## Building trust towards self driving, one step at a time.
 
-Our pursue is allowing each driver to grasp first-hand what an "algorithm" sees at any time and how it reacts. This understanding will bridge the gap between delegating man-to-machine driving task, thus accelerating adoption of self driving technologies.
+Our pursue is allowing each driver to grasp first-hand what an automated driving computer sees at any time and how it reacts. This understanding will bridge the gap between delegating man-to-machine driving task, thus accelerating adoption of self driving technologies.
 
 Self driving is a nice entry point for EV (Electric Vehicles). Rapid adoption is key for our evolution and continuity. We can use the millions of cars already deployed in our favor to develop trust on the underlying tech, easing a quicker transition to a healthier way of transporting ourselves, while bringing associated costs down quickly.
 
