@@ -2,7 +2,13 @@
 
 ## Building trust towards self driving, one step at a time.
 
-The driver will become augmented by real time information comming from different sources that will be perceived and then fed to her. Feeding will be accomplished by **mixing visual and audio cues, hints and suggestions** translated from real world inferred events. The person will be able to focus on the main task, avoiding to scatter around, but at the same time, getting all the info from its surroundings in an organized and percievable fashion. Building trust on the automated system through repetitive validations by comparing fed results against the real-world.
+We want to show what an automated driving computer sees at any time and how it reacts. This understanding will bridge the gap between delegating man-to-machine driving task, accelerating adoption of self driving technologies.
+
+Self driving is a nice entry point for EV (Electric Vehicles). Rapid adoption is key for our evolution and continuity. We can use the millions of cars already deployed in our favor to develop trust on the underlying tech, easing a quicker transition to a healthier way of transporting ourselves, while bringing associated costs down quickly.
+
+The driver will become augmented by real time information coming from different sources that will be perceived and then fed to her. By becoming enhanced, less stress will allow to dedicate more energy to the task at hand.
+
+Feeding will be accomplished by **mixing visual and audio cues, hints and suggestions** translated from real world inferred events. The person will be able to focus on the main task, avoiding to scatter around, but at the same time, getting all the info from its surroundings in an organized and percievable fashion. Building trust on the automated system through repetitive validations by comparing fed results against the real-world.
 
 We'll get there eventually, but it'll take baby steps (sources) to do so. The first source, will be Traffic Sign Recognition. For it, we'll give a try to a hypothesis on mimicking our species learning and inference processes. If such approach works, it will suppose a leap forward for AGI (Artificial General Intelligence) field evolution, bringing down significantly learning and inferencing, time and energy needs, for some scenarios or tasks.
 
