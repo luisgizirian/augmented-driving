@@ -1,5 +1,7 @@
 # Augmented Driving
 
+**Please note!** The experiments in this repository should be considered to be in beta. Significant portions of these experiments are subject to change without warning (although accesible through repo's history). **No part of this code should be considered stable.**
+
 ## Building trust towards self driving, one step at a time.
 
 We want to show what an automated driving computer sees at any time and how it reacts. This understanding will bridge the gap between delegating man-to-machine driving task, accelerating adoption of self driving technologies.
