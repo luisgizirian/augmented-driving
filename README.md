@@ -10,7 +10,7 @@ We want to show what an automated driving computer sees at any time and how it r
 * Improve driving experience by organizing information overload whilie focusing easily on the task
 * Facilitate and fasten self driving adoption by building trust
 * Use worldwide existing car fleet to fasten market reach
-* 
+
 Self driving is a nice entry point for EV (Electric Vehicles). Rapid adoption is key for our evolution and continuity. We can use the millions of cars already deployed in our favor to develop trust on the underlying tech, easing a quicker transition to a healthier way of transporting ourselves, while bringing associated costs down quickly.
 
 The driver will become augmented by real time information coming from different sources that will be perceived and then fed to her. By becoming enhanced, less stress will allow to dedicate more energy to the task at hand.
