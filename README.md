@@ -9,7 +9,7 @@ We want to show what an automated driving computer sees at any time and how it r
 ### Intended Objectives
 * Improve driving experience by organizing information overload while focusing easily on the task
 * Facilitate and fasten self driving adoption by building trust
-* Use worldwide existing car fleet to fasten market reach
+* Use currently deployed worldwide car fleet to fasten market reach
 
 Self driving is a strategic entry point to facilitate interest in EV (Electric Vehicles). It's possible to use the millions of cars already deployed to develop trust on the underlying tech, easing a quicker transition to a healthier way of transporting ourselves, while bringing associated costs down quickly.
 
