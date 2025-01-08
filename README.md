@@ -61,3 +61,6 @@ To test our hypothesis, we'll pick this challenge. At a high level, we're planni
 * | Inferencing (layer #2) | Context (3-dimentionalizing, physics laws) |
 
 From the sample pictogram (that a human could use as a source of truth for learning purposes - in a Driving Manual provided by your local institution), we may get some attributes that are useful for learning and later recognizing it in real world complex imagery that will be feeded. These attributes are: Shape, Primary color, orientation, compound shapes (ie. Stop All-way, Ramp Max Speed), relative size when related (ie. min - max speed limit in highway)
+
+## Advances in similar direction
+https://www.theverge.com/2025/1/7/24335460/bmw-ces-2025-idrive-heads-up-display-ar
